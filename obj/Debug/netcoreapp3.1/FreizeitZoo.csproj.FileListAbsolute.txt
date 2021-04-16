@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\oop\oop\FreizeitZoo\bin\Debug\netcoreapp3.1\FreizeitZoo.exe
+C:\Users\Admin\source\repos\oop\oop\FreizeitZoo\bin\Debug\netcoreapp3.1\FreizeitZoo.deps.json
+C:\Users\Admin\source\repos\oop\oop\FreizeitZoo\bin\Debug\netcoreapp3.1\FreizeitZoo.runtimeconfig.json
+C:\Users\Admin\source\repos\oop\oop\FreizeitZoo\bin\Debug\netcoreapp3.1\FreizeitZoo.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\oop\oop\FreizeitZoo\bin\Debug\netcoreapp3.1\FreizeitZoo.dll
+C:\Users\Admin\source\repos\oop\oop\FreizeitZoo\bin\Debug\netcoreapp3.1\FreizeitZoo.pdb
+C:\Users\Admin\source\repos\oop\oop\FreizeitZoo\obj\Debug\netcoreapp3.1\FreizeitZoo.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\oop\oop\FreizeitZoo\obj\Debug\netcoreapp3.1\FreizeitZoo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\oop\oop\FreizeitZoo\obj\Debug\netcoreapp3.1\FreizeitZoo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\oop\oop\FreizeitZoo\obj\Debug\netcoreapp3.1\FreizeitZoo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\oop\oop\FreizeitZoo\obj\Debug\netcoreapp3.1\FreizeitZoo.dll
+C:\Users\Admin\source\repos\oop\oop\FreizeitZoo\obj\Debug\netcoreapp3.1\FreizeitZoo.pdb
+C:\Users\Admin\source\repos\oop\oop\FreizeitZoo\obj\Debug\netcoreapp3.1\FreizeitZoo.genruntimeconfig.cache
